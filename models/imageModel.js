@@ -44,6 +44,9 @@ var insertImageToDb = function() {
 var helpFun = function() {
 };
 
+var helpFun1 = function() {
+}
+
 module.exports = {
 	getImage : getImage
 }
