@@ -10,6 +10,9 @@ var config = {
         'pass': 'johnson687',
         'db': 'chummy'
     },
+    'mysql': {
+	'host': 'localhost'
+    }
 
     'cloudinary': {
         'cloud_name': 'hma00czdv',
